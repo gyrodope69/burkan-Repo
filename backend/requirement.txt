@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+aiortc
+deepgram-sdk==5.0.0
+numpy
+scikit-learn
+python-dotenv
+requests
